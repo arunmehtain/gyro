@@ -1,2 +1,2 @@
 # gyro
-records and plotsangular accelleration and  velocity
+records and plots angular accelleration and  velocity
